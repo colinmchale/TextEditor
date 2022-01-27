@@ -23,7 +23,6 @@ module.exports = () => {
         template: './index.html',
         title: 'Text Editor'
       }),
-     
       // Injects our custom service worker
       new InjectManifest({
         swSrc: './src-sw.js',
