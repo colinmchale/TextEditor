@@ -4,6 +4,8 @@
 ## Description  
 The application is meant to be a digital notepad for those that need to save a thought at any point in the day. Notes will never be deleted or cleared unless the user chooses to remove all characters. What is written on the page will be automatically saved and will be rendered when the application is refreshed. The application can also work offline once installed.
 
+*Starter Code provided by Southern Methodist University Full Stack Web Development Bootcamp
+
 ## Table of Contents  
 [Description](#description)   
 [Installation](#installation)  
